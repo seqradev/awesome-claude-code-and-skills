@@ -649,9 +649,8 @@ n- [GiulioDER/cca-audit](https://github.com/GiulioDER/cca-audit) ![Stars](https:
   - Python-driven
 
 - [LoRexxar/Kunlun-M](https://github.com/LoRexxar/Kunlun-M) ![Stars](https://img.shields.io/github/stars/LoRexxar/Kunlun-M?style=flat-square)
-  - Fully open-source static white-box scanner for PHP and JavaScript
-  - Semantic scanning combined with AI Agent integration (OpenClaw and Claude Code)
-  - Python-driven; useful for application-security teams
+- [seqra/opentaint](https://github.com/seqra/opentaint/tree/main/skills) ![Stars](https://img.shields.io/github/stars/seqra/opentaint?style=flat-square)
+  - OpenTaint AppSec skill pack. AI agents turn security-review findings into reusable taint rules and dependency summaries. Because the engine reuses these rules instead of repeating that expensive work, later scans become fast, deterministic, precise, and thorough.
 
 ### Compliance & Auditing
 
